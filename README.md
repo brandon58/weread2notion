@@ -33,8 +33,4 @@
         * NOTION_TOKEN
         * NOTION_DATABASE_ID
 
-## 微信群
-
- ![image](https://github.com/malinkang/weread2notion/assets/3365208/706d9ed2-9c2b-4207-8d8e-9062228a20fa)
-
 
